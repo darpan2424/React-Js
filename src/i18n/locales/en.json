@@ -1,0 +1,68 @@
+{
+  "common": {
+    "add": "Add",
+    "edit": "Edit",
+    "delete": "Delete",
+    "save": "Save",
+    "cancel": "Cancel",
+    "search": "Search",
+    "filter": "Filter",
+    "loading": "Loading...",
+    "error": "Error",
+    "success": "Success"
+  },
+  "auth": {
+    "login": "Login",
+    "register": "Register",
+    "forgotPassword": "Forgot Password",
+    "email": "Email",
+    "password": "Password",
+    "confirmPassword": "Confirm Password",
+    "rememberMe": "Remember Me",
+    "loginSuccess": "Login successful",
+    "registerSuccess": "Registration successful",
+    "passwordResetSuccess": "Password reset email sent"
+  },
+  "dashboard": {
+    "title": "Dashboard",
+    "welcome": "Welcome",
+    "totalProjects": "Total Projects",
+    "totalEstimations": "Total Estimations",
+    "recentActivity": "Recent Activity"
+  },
+  "projects": {
+    "title": "Projects",
+    "newProject": "New Project",
+    "projectName": "Project Name",
+    "projectDescription": "Project Description",
+    "status": "Status",
+    "client": "Client",
+    "startDate": "Start Date",
+    "endDate": "End Date"
+  },
+  "estimations": {
+    "title": "Estimations",
+    "newEstimation": "New Estimation",
+    "sections": "Sections",
+    "addSection": "Add Section",
+    "removeSection": "Remove Section",
+    "items": "Items",
+    "addItem": "Add Item",
+    "removeItem": "Remove Item",
+    "itemTitle": "Title",
+    "itemDescription": "Description",
+    "unit": "Unit",
+    "quantity": "Quantity",
+    "price": "Price",
+    "margin": "Margin",
+    "total": "Total"
+  },
+  "validation": {
+    "required": "This field is required",
+    "invalidEmail": "Invalid email address",
+    "passwordMismatch": "Passwords do not match",
+    "minLength": "Must be at least {{count}} characters",
+    "maxLength": "Must be at most {{count}} characters",
+    "positiveNumber": "Must be a positive number"
+  }
+} 

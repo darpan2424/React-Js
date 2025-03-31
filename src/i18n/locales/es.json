@@ -1,0 +1,68 @@
+{
+  "common": {
+    "add": "Agregar",
+    "edit": "Editar",
+    "delete": "Eliminar",
+    "save": "Guardar",
+    "cancel": "Cancelar",
+    "search": "Buscar",
+    "filter": "Filtrar",
+    "loading": "Cargando...",
+    "error": "Error",
+    "success": "Éxito"
+  },
+  "auth": {
+    "login": "Iniciar Sesión",
+    "register": "Registrarse",
+    "forgotPassword": "Olvidé mi Contraseña",
+    "email": "Correo Electrónico",
+    "password": "Contraseña",
+    "confirmPassword": "Confirmar Contraseña",
+    "rememberMe": "Recordarme",
+    "loginSuccess": "Inicio de sesión exitoso",
+    "registerSuccess": "Registro exitoso",
+    "passwordResetSuccess": "Correo de restablecimiento de contraseña enviado"
+  },
+  "dashboard": {
+    "title": "Panel de Control",
+    "welcome": "Bienvenido",
+    "totalProjects": "Total de Proyectos",
+    "totalEstimations": "Total de Estimaciones",
+    "recentActivity": "Actividad Reciente"
+  },
+  "projects": {
+    "title": "Proyectos",
+    "newProject": "Nuevo Proyecto",
+    "projectName": "Nombre del Proyecto",
+    "projectDescription": "Descripción del Proyecto",
+    "status": "Estado",
+    "client": "Cliente",
+    "startDate": "Fecha de Inicio",
+    "endDate": "Fecha de Fin"
+  },
+  "estimations": {
+    "title": "Estimaciones",
+    "newEstimation": "Nueva Estimación",
+    "sections": "Secciones",
+    "addSection": "Agregar Sección",
+    "removeSection": "Eliminar Sección",
+    "items": "Elementos",
+    "addItem": "Agregar Elemento",
+    "removeItem": "Eliminar Elemento",
+    "itemTitle": "Título",
+    "itemDescription": "Descripción",
+    "unit": "Unidad",
+    "quantity": "Cantidad",
+    "price": "Precio",
+    "margin": "Margen",
+    "total": "Total"
+  },
+  "validation": {
+    "required": "Este campo es requerido",
+    "invalidEmail": "Correo electrónico inválido",
+    "passwordMismatch": "Las contraseñas no coinciden",
+    "minLength": "Debe tener al menos {{count}} caracteres",
+    "maxLength": "Debe tener como máximo {{count}} caracteres",
+    "positiveNumber": "Debe ser un número positivo"
+  }
+} 
